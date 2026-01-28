@@ -5,5 +5,8 @@ public class scratchorgClass1 {
     public void methodfromscratchorg1(){
         SYstem.debug('new method from scratch org 1');
     }
+     public void methodfromscratchorgz(){
+        SYstem.debug('new method from scratch org z');
+    }
 
 }
